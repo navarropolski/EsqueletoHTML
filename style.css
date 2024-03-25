@@ -65,6 +65,14 @@ h2 {
 
 }
 
+h3 {
+    font-family:"OldLondon";
+    color: #FFBB31;
+    text-shadow: 4px 4px 8px #AF1D3B;
+    text-align: center;
+    font-size: 35px;
+}
+
 .historia {
     text-align: center;
     justify-content: center;
